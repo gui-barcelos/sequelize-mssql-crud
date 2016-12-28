@@ -1,0 +1,21 @@
+{
+  "name": "SequelizeMSSQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "JsDocComments.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "sequelize": "^3.28.0",
+    "sequelize-cli": "^2.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
