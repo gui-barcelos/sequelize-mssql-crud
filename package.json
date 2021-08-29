@@ -12,10 +12,10 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "morgan": "^1.7.0",
-    "sequelize": "^3.28.0",
-    "sequelize-cli": "^2.5.1"
+    "sequelize": "^4.44.4",
+    "sequelize-cli": "^5.5.0"
   },
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "nodemon": "^2.0.12"
   }
 }
